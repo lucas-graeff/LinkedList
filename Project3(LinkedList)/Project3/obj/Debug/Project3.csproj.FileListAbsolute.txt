@@ -1,0 +1,10 @@
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project3\Project3\bin\Debug\Project3.exe.config
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project3\Project3\bin\Debug\Project3.exe
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project3\Project3\bin\Debug\Project3.pdb
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project3\Project3\obj\Debug\Project3.csprojAssemblyReference.cache
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project3\Project3\obj\Debug\Project3.LinkedListForm.resources
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project3\Project3\obj\Debug\Project3.Properties.Resources.resources
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project3\Project3\obj\Debug\Project3.csproj.GenerateResource.cache
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project3\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project3\Project3\obj\Debug\Project3.exe
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project3\Project3\obj\Debug\Project3.pdb
